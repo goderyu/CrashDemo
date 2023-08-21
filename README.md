@@ -9,6 +9,7 @@ CrashDemo是集成Google的Crashpad崩溃报告库以及Breakpad崩溃工具的�
 ## 参考链接
 
 [Qt开发之抓取崩溃信息](https://blog.51cto.com/u_15854865/5811230)
+[How to Build Google Crashpad](https://docs.bugsplat.com/introduction/getting-started/integrations/cross-platform/crashpad/how-to-build-google-crashpad)
 
 
 ## 注意事项
